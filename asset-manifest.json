@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/quick-starter-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/quick-starter-app/static/js/main.d82baec0.chunk.js",
+    "main.js.map": "/quick-starter-app/static/js/main.d82baec0.chunk.js.map",
+    "runtime-main.js": "/quick-starter-app/static/js/runtime-main.6a3fc0f4.js",
+    "runtime-main.js.map": "/quick-starter-app/static/js/runtime-main.6a3fc0f4.js.map",
+    "static/js/2.00d1e096.chunk.js": "/quick-starter-app/static/js/2.00d1e096.chunk.js",
+    "static/js/2.00d1e096.chunk.js.map": "/quick-starter-app/static/js/2.00d1e096.chunk.js.map",
+    "static/js/3.694c552d.chunk.js": "/quick-starter-app/static/js/3.694c552d.chunk.js",
+    "static/js/3.694c552d.chunk.js.map": "/quick-starter-app/static/js/3.694c552d.chunk.js.map",
+    "index.html": "/quick-starter-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/quick-starter-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.00d1e096.chunk.js.LICENSE.txt": "/quick-starter-app/static/js/2.00d1e096.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/quick-starter-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a3fc0f4.js",
+    "static/js/2.00d1e096.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.d82baec0.chunk.js"
+  ]
+}
